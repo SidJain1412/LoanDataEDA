@@ -2,7 +2,7 @@
 
 ## Highly Detailed Analysis of Lending Club Loan Data.
 
-## Using the data to predict interest rates, given some factors. 
+## Using the data to predict interest rates, given some factors. (using Gradient Boosting Regressor) 
 
 Analysing the data of more than 800,000 issued loans.
 Data from: www.kaggle.com/wendykan/lending-club-loan-data
